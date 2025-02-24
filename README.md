@@ -21,6 +21,11 @@ Apache (EasyPHP) (Local server for testing)
 If you don’t have EasyPHP, download and install it:
 🔗 EasyPHP DevServer
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
+
 2️⃣ Clone the Repository
 bash
 Copy
